@@ -1,0 +1,1076 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sinan/.gradle/caches/transforms-3/765aed2989631010ad2fb63827c9fed8/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sinan/.gradle/caches/transforms-3/fa59b785ae5e494505df38e719d88a6b/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/sinan/.gradle/caches/transforms-3/8cf7fc1e75fc79c06f0083c5da308464/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sinan/.gradle/caches/transforms-3/1ec642ee7424e2692c7c55055a8482a4/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aab38c547ed67bc3ed8a6de91b5c39c0/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sinan/.gradle/caches/transforms-3/e39332cb6d7196c6b6ada6491ac4c9c4/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sinan/.gradle/caches/transforms-3/25cd61e8e76ceb36619da1ec8d0a8352/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f3c4b834347974b6d9aa4add25044e3e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e2b942456bacbeb1b09ff2cce656a466/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c2a4e61632e4082ea6960365b2c5abba/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e6d235e7471b59aca08004f828bee38e/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a816cf82e4a55b8c7850bdb1ad4b4090/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c53caf4c7d68feac85c179dd4454552d/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sinan/.gradle/caches/transforms-3/76f00fbd090c108314e748a2173e91da/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0159d77a9ff4e88f3d62fdca16874af7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a3ec9a586f83b728371bb74e9d6db180/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sinan/.gradle/caches/transforms-3/489f42842fe49f676f8c2e99aea4829b/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1cd5d9bb356364fd4f7f5276947a01cc/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b157624754a7bb2301e648d123b54b34/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/33f5e7a56ac2c92e3acd5374f97bbd96/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1255118d73c38931896294f2d1f1dca0/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/cab0025e205afd470f0639275483b431/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sinan/.gradle/caches/transforms-3/5484b971be9c7e7743ba439833e82580/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/156327d653f68cf1948f4daa25971e10/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9b2c553a1d198f831ddf9658496ee7e1/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sinan/.gradle/caches/transforms-3/6765090d7ca194468d839f54969d87d5/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa587bbfc2261c17aca180e67725773d/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2a25bafdc9bedb769773c3311eadee9b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ab134bc81780d6576faf383abae63d39/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1761ee2035c03386002ed5437bcb667d/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/704a821c4ad095d148c05862a4226d4f/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca711344bef5610a031d375115a7bf7a/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bf4420a0383b2d0e522cc5bb63c90942/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e304051b8d397d75d72238f44b70640e/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b6d41dc2c1ff0d38cbf3d6ba3d130746/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/dde8612d9b5d6fa3d85a57b44889ea8f/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2f28b62ca7cedfd71417faee3544c635/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4f7419fbf5bc58867d9753ee029489f7/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8ae738744ad6cd08b6e7199d71f47e2a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sinan/.gradle/caches/transforms-3/a551ec3925c70cb02b677f108725d346/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/833da8d2b26b61531d7cd9f799065db0/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sinan/.gradle/caches/transforms-3/4b7dbe262513be604b02cce610f4a575/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sinan/.gradle/caches/transforms-3/61b149a0f5116383bf982f5d209309fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sinan/.gradle/caches/transforms-3/809b7429e41d37aee40f6602ba3836c5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sinan/.gradle/caches/transforms-3/43d1e078ac188d465ef2809824fd4952/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sinan/.gradle/caches/transforms-3/9512078eb81ca6cc668c4ddd01979fb1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1395196fa28cf1ce55585f8db402c72b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sinan/.gradle/caches/transforms-3/d30ef89f68d3a6373b3f5183f41069de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f6f16f3040f3f9a9b3aa35f871b717df/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sinan/.gradle/caches/transforms-3/467d8e03913028be2d7157a4024b8fcc/transformed/palette-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sinan/.gradle/caches/transforms-3/62c5529e591ea6e283aeaae274bd2dd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sinan/.gradle/caches/transforms-3/cfa4b47aa70d8e1a74967833d165ad34/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/sinan/.gradle/caches/transforms-3/ee2541c2beb286993af028b70726c4af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sinan/.gradle/caches/transforms-3/20afffd88e17b00f5ebe64f36c265faa/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/7b804e3bcd1e54d498c9c5de9a977174/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/e4571ff447acf29be2ac111e2c23e099/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/67ec4c3c228d9bee23d2e3371260c294/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sinan/.gradle/caches/transforms-3/4f45debf5ee8c6379ed26ed6632c29fb/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sinan/.gradle/caches/transforms-3/31bbec80ba4a842e57d1847179951b7f/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8b60bdd7b2d37387e0afc71c2ed38e46/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sinan/.gradle/caches/transforms-3/fd260aa1f79d85a82788ffcb5351e38a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sinan/.gradle/caches/transforms-3/7c359a0d3867ad12623e008da9b1b158/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sinan/.gradle/caches/transforms-3/41f30f64a8a1ed0cb2e1b872ccbeaf0a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sinan/.gradle/caches/transforms-3/c3a0952718f4588cef518dc015b1417c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1323bd5c8b0461ff28b7334ce7cb31ad/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sinan/.gradle/caches/transforms-3/392bea6d77071e7e03dd912ccc7690b1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sinan/.gradle/caches/transforms-3/8b6ca7e47c8e8fbc9f91993e9e1bbde9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sinan/.gradle/caches/transforms-3/990aff751bdc95e9300810bb83da34c6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sinan/.gradle/caches/transforms-3/fca11842bc1ce504382c66321778e163/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sinan/.gradle/caches/transforms-3/b951fea2a9cb75f570a0c35762539cca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sinan/.gradle/caches/transforms-3/3ea069aade38f2834880739401f58f45/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sinan/.gradle/caches/transforms-3/1f07310347ab1b49ec09da2df174c13b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/d075286adb62d55953e82bb4136901f4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sinan/.gradle/caches/transforms-3/0b457c4ba9b8e4385c89108400d7920b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sinan/.gradle/caches/transforms-3/38e9275d08f3a2e0bcd6de48cff00961/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sinan/.gradle/caches/transforms-3/6575b34e88e16710b2627b63394f8c5a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a37acbf713a537f747e9ba6ac012a793/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/132555be3abd34120a5f02efa5b4f5b8/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0f60ef51a04c2e4dd5a042924b5b0757/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/06729512e501985b2c0bbb2c5c30e219/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4283a2d58264a7aca92beaa848847fa2/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f6e1753b6571af729d1be8b731aa7ab2/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0942d79f7741826f94ddeabae505b7d1/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3d04a7f2a04d32bd77427b5499245fd7/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa540224041709e18cc24ae293422906/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d04bfac02dca99835b0e5cb5f90469ab/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/23d1a2d29aed5426f83eacc2ca65c8ed/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bcec558f81bb92c1398dd09eabc36c4a/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/665bb8c96d4999f288ed2ec20400b863/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8e62e89929074812e481d29c170e168e/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12e62877231a162140e557d4fce3fcd9/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/210b4d43a5efa2f13afe11407adb9a45/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f0207f6219380a4f698544c084394898/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1ddd2a535ff3c37df2dc52d196aba331/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d9631569f6a41ef754ffd8a9dcf67c37/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/342fc398927bacab1ff8362013c9f906/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/83fcf9d5070cfaa2f724cbed2f3a6dc9/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9d24a82f811fbe38f56607575d5f7c5b/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3874edf154a7fb2c07ca3ca97073784d/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99f40f8d8665735c15e677dc2fe073ca/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/de9e5c503a012e7a5ef6d43327bd1eca/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/524312580e26c2b9fd961eb023839337/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8212ce1e103d960c5a10ced29f868519/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4a93c95f47348e66b431a8e28ac1ad55/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bb6523e01e6286998b8e7d891951562f/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8973c3c59b46336c419d7c695e94c442/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/56dbe85d061b163ae0bd3f6476b55c0b/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/da8a2ce2e2136b49f93858958c5c01ed/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e76223ce22c9c5868687439633f0c3f/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/654e7130a8ba8d0b528b98a29ea3333c/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99cf06251b9e5310e5a1f4aab4b32c08/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/34d4d8d9d44e6a0e5646b1c36bb3c3f0/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12af9c8095f65cb9a0e8b9fd309015ef/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d5a59ed675b53314a15740d64956093/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e1950d859c45c9162b1465765ade1f2e/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b624b5e1ac670ff8bc147a39b052973c/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/903df6848ec6723ccd419853691d900f/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e011c9d9de7f2b29f3a906c465dc065/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/af41b66a1ad27071341f8d1d6b0cc35c/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/247f24815eb289e16dbfe503a913dd60/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/984c47d9420544028b59a9029a4de968/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/21f2c879b61fb345e4078bbbb3032503/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a27fed88a532b355fef09e37a7bc13bb/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/eecc8e6f3c356f1491b2bc9429e944af/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/71ff9eef8048bdcc055d4dc5042315e4/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e244035ddece021282eb68ce19e90ea2/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:13:22-76
+uses-feature#0x00020000
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:16:5-18:34
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:19:5-44:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sinan/.gradle/caches/transforms-3/fa59b785ae5e494505df38e719d88a6b/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sinan/.gradle/caches/transforms-3/fa59b785ae5e494505df38e719d88a6b/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/sinan/.gradle/caches/transforms-3/8cf7fc1e75fc79c06f0083c5da308464/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/sinan/.gradle/caches/transforms-3/8cf7fc1e75fc79c06f0083c5da308464/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sinan/.gradle/caches/transforms-3/1ec642ee7424e2692c7c55055a8482a4/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sinan/.gradle/caches/transforms-3/1ec642ee7424e2692c7c55055a8482a4/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aab38c547ed67bc3ed8a6de91b5c39c0/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aab38c547ed67bc3ed8a6de91b5c39c0/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e6d235e7471b59aca08004f828bee38e/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e6d235e7471b59aca08004f828bee38e/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sinan/.gradle/caches/transforms-3/76f00fbd090c108314e748a2173e91da/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sinan/.gradle/caches/transforms-3/76f00fbd090c108314e748a2173e91da/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0159d77a9ff4e88f3d62fdca16874af7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0159d77a9ff4e88f3d62fdca16874af7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a3ec9a586f83b728371bb74e9d6db180/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a3ec9a586f83b728371bb74e9d6db180/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sinan/.gradle/caches/transforms-3/489f42842fe49f676f8c2e99aea4829b/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sinan/.gradle/caches/transforms-3/489f42842fe49f676f8c2e99aea4829b/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1cd5d9bb356364fd4f7f5276947a01cc/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1cd5d9bb356364fd4f7f5276947a01cc/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b157624754a7bb2301e648d123b54b34/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b157624754a7bb2301e648d123b54b34/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/33f5e7a56ac2c92e3acd5374f97bbd96/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/33f5e7a56ac2c92e3acd5374f97bbd96/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1255118d73c38931896294f2d1f1dca0/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1255118d73c38931896294f2d1f1dca0/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sinan/.gradle/caches/transforms-3/5484b971be9c7e7743ba439833e82580/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sinan/.gradle/caches/transforms-3/5484b971be9c7e7743ba439833e82580/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9b2c553a1d198f831ddf9658496ee7e1/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9b2c553a1d198f831ddf9658496ee7e1/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sinan/.gradle/caches/transforms-3/6765090d7ca194468d839f54969d87d5/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sinan/.gradle/caches/transforms-3/6765090d7ca194468d839f54969d87d5/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa587bbfc2261c17aca180e67725773d/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa587bbfc2261c17aca180e67725773d/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2a25bafdc9bedb769773c3311eadee9b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2a25bafdc9bedb769773c3311eadee9b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ab134bc81780d6576faf383abae63d39/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ab134bc81780d6576faf383abae63d39/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1761ee2035c03386002ed5437bcb667d/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1761ee2035c03386002ed5437bcb667d/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/704a821c4ad095d148c05862a4226d4f/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/704a821c4ad095d148c05862a4226d4f/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca711344bef5610a031d375115a7bf7a/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca711344bef5610a031d375115a7bf7a/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2f28b62ca7cedfd71417faee3544c635/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2f28b62ca7cedfd71417faee3544c635/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4f7419fbf5bc58867d9753ee029489f7/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4f7419fbf5bc58867d9753ee029489f7/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sinan/.gradle/caches/transforms-3/7c359a0d3867ad12623e008da9b1b158/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sinan/.gradle/caches/transforms-3/7c359a0d3867ad12623e008da9b1b158/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a37acbf713a537f747e9ba6ac012a793/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a37acbf713a537f747e9ba6ac012a793/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/132555be3abd34120a5f02efa5b4f5b8/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/132555be3abd34120a5f02efa5b4f5b8/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0f60ef51a04c2e4dd5a042924b5b0757/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0f60ef51a04c2e4dd5a042924b5b0757/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/06729512e501985b2c0bbb2c5c30e219/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/06729512e501985b2c0bbb2c5c30e219/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4283a2d58264a7aca92beaa848847fa2/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4283a2d58264a7aca92beaa848847fa2/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f6e1753b6571af729d1be8b731aa7ab2/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f6e1753b6571af729d1be8b731aa7ab2/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0942d79f7741826f94ddeabae505b7d1/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0942d79f7741826f94ddeabae505b7d1/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3d04a7f2a04d32bd77427b5499245fd7/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3d04a7f2a04d32bd77427b5499245fd7/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa540224041709e18cc24ae293422906/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa540224041709e18cc24ae293422906/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d04bfac02dca99835b0e5cb5f90469ab/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d04bfac02dca99835b0e5cb5f90469ab/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/23d1a2d29aed5426f83eacc2ca65c8ed/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/23d1a2d29aed5426f83eacc2ca65c8ed/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bcec558f81bb92c1398dd09eabc36c4a/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bcec558f81bb92c1398dd09eabc36c4a/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/665bb8c96d4999f288ed2ec20400b863/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/665bb8c96d4999f288ed2ec20400b863/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8e62e89929074812e481d29c170e168e/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8e62e89929074812e481d29c170e168e/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12e62877231a162140e557d4fce3fcd9/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12e62877231a162140e557d4fce3fcd9/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/210b4d43a5efa2f13afe11407adb9a45/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/210b4d43a5efa2f13afe11407adb9a45/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f0207f6219380a4f698544c084394898/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f0207f6219380a4f698544c084394898/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1ddd2a535ff3c37df2dc52d196aba331/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1ddd2a535ff3c37df2dc52d196aba331/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d9631569f6a41ef754ffd8a9dcf67c37/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d9631569f6a41ef754ffd8a9dcf67c37/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/342fc398927bacab1ff8362013c9f906/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/342fc398927bacab1ff8362013c9f906/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/83fcf9d5070cfaa2f724cbed2f3a6dc9/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/83fcf9d5070cfaa2f724cbed2f3a6dc9/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9d24a82f811fbe38f56607575d5f7c5b/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9d24a82f811fbe38f56607575d5f7c5b/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3874edf154a7fb2c07ca3ca97073784d/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3874edf154a7fb2c07ca3ca97073784d/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99f40f8d8665735c15e677dc2fe073ca/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99f40f8d8665735c15e677dc2fe073ca/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/de9e5c503a012e7a5ef6d43327bd1eca/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/de9e5c503a012e7a5ef6d43327bd1eca/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/524312580e26c2b9fd961eb023839337/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/524312580e26c2b9fd961eb023839337/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8212ce1e103d960c5a10ced29f868519/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8212ce1e103d960c5a10ced29f868519/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4a93c95f47348e66b431a8e28ac1ad55/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4a93c95f47348e66b431a8e28ac1ad55/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bb6523e01e6286998b8e7d891951562f/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bb6523e01e6286998b8e7d891951562f/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8973c3c59b46336c419d7c695e94c442/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8973c3c59b46336c419d7c695e94c442/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/56dbe85d061b163ae0bd3f6476b55c0b/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/56dbe85d061b163ae0bd3f6476b55c0b/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/da8a2ce2e2136b49f93858958c5c01ed/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/da8a2ce2e2136b49f93858958c5c01ed/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e76223ce22c9c5868687439633f0c3f/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e76223ce22c9c5868687439633f0c3f/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/654e7130a8ba8d0b528b98a29ea3333c/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/654e7130a8ba8d0b528b98a29ea3333c/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99cf06251b9e5310e5a1f4aab4b32c08/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99cf06251b9e5310e5a1f4aab4b32c08/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/34d4d8d9d44e6a0e5646b1c36bb3c3f0/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/34d4d8d9d44e6a0e5646b1c36bb3c3f0/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12af9c8095f65cb9a0e8b9fd309015ef/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12af9c8095f65cb9a0e8b9fd309015ef/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d5a59ed675b53314a15740d64956093/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d5a59ed675b53314a15740d64956093/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e1950d859c45c9162b1465765ade1f2e/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e1950d859c45c9162b1465765ade1f2e/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b624b5e1ac670ff8bc147a39b052973c/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b624b5e1ac670ff8bc147a39b052973c/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/903df6848ec6723ccd419853691d900f/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/903df6848ec6723ccd419853691d900f/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e011c9d9de7f2b29f3a906c465dc065/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e011c9d9de7f2b29f3a906c465dc065/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/af41b66a1ad27071341f8d1d6b0cc35c/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/af41b66a1ad27071341f8d1d6b0cc35c/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/247f24815eb289e16dbfe503a913dd60/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/247f24815eb289e16dbfe503a913dd60/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/984c47d9420544028b59a9029a4de968/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/984c47d9420544028b59a9029a4de968/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/21f2c879b61fb345e4078bbbb3032503/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/21f2c879b61fb345e4078bbbb3032503/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a27fed88a532b355fef09e37a7bc13bb/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a27fed88a532b355fef09e37a7bc13bb/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/eecc8e6f3c356f1491b2bc9429e944af/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/eecc8e6f3c356f1491b2bc9429e944af/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/71ff9eef8048bdcc055d4dc5042315e4/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/71ff9eef8048bdcc055d4dc5042315e4/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e244035ddece021282eb68ce19e90ea2/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e244035ddece021282eb68ce19e90ea2/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:23:9-40
+activity#edu.umb.cs443.MainActivity
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:34:9-38:15
+	android:value
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:34:20-69
+meta-data#com.google.android.gms.version
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:39:9-41:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:40:13-58
+uses-library#org.apache.http.legacy
+ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:43:9-88
+	android:required
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:43:61-85
+	android:name
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml:43:23-60
+uses-sdk
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sinan/.gradle/caches/transforms-3/765aed2989631010ad2fb63827c9fed8/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/sinan/.gradle/caches/transforms-3/765aed2989631010ad2fb63827c9fed8/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sinan/.gradle/caches/transforms-3/fa59b785ae5e494505df38e719d88a6b/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /Users/sinan/.gradle/caches/transforms-3/fa59b785ae5e494505df38e719d88a6b/transformed/jetified-play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.material:material:1.4.0] /Users/sinan/.gradle/caches/transforms-3/8cf7fc1e75fc79c06f0083c5da308464/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/sinan/.gradle/caches/transforms-3/8cf7fc1e75fc79c06f0083c5da308464/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sinan/.gradle/caches/transforms-3/1ec642ee7424e2692c7c55055a8482a4/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/sinan/.gradle/caches/transforms-3/1ec642ee7424e2692c7c55055a8482a4/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aab38c547ed67bc3ed8a6de91b5c39c0/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aab38c547ed67bc3ed8a6de91b5c39c0/transformed/jetified-play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sinan/.gradle/caches/transforms-3/e39332cb6d7196c6b6ada6491ac4c9c4/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/sinan/.gradle/caches/transforms-3/e39332cb6d7196c6b6ada6491ac4c9c4/transformed/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sinan/.gradle/caches/transforms-3/25cd61e8e76ceb36619da1ec8d0a8352/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/sinan/.gradle/caches/transforms-3/25cd61e8e76ceb36619da1ec8d0a8352/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f3c4b834347974b6d9aa4add25044e3e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f3c4b834347974b6d9aa4add25044e3e/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e2b942456bacbeb1b09ff2cce656a466/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e2b942456bacbeb1b09ff2cce656a466/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c2a4e61632e4082ea6960365b2c5abba/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c2a4e61632e4082ea6960365b2c5abba/transformed/jetified-play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e6d235e7471b59aca08004f828bee38e/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e6d235e7471b59aca08004f828bee38e/transformed/jetified-play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a816cf82e4a55b8c7850bdb1ad4b4090/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a816cf82e4a55b8c7850bdb1ad4b4090/transformed/jetified-play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c53caf4c7d68feac85c179dd4454552d/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/c53caf4c7d68feac85c179dd4454552d/transformed/jetified-play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sinan/.gradle/caches/transforms-3/76f00fbd090c108314e748a2173e91da/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /Users/sinan/.gradle/caches/transforms-3/76f00fbd090c108314e748a2173e91da/transformed/jetified-firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0159d77a9ff4e88f3d62fdca16874af7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0159d77a9ff4e88f3d62fdca16874af7/transformed/jetified-play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a3ec9a586f83b728371bb74e9d6db180/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a3ec9a586f83b728371bb74e9d6db180/transformed/jetified-play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sinan/.gradle/caches/transforms-3/489f42842fe49f676f8c2e99aea4829b/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /Users/sinan/.gradle/caches/transforms-3/489f42842fe49f676f8c2e99aea4829b/transformed/jetified-play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1cd5d9bb356364fd4f7f5276947a01cc/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1cd5d9bb356364fd4f7f5276947a01cc/transformed/jetified-play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b157624754a7bb2301e648d123b54b34/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b157624754a7bb2301e648d123b54b34/transformed/jetified-firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/33f5e7a56ac2c92e3acd5374f97bbd96/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /Users/sinan/.gradle/caches/transforms-3/33f5e7a56ac2c92e3acd5374f97bbd96/transformed/jetified-play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1255118d73c38931896294f2d1f1dca0/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1255118d73c38931896294f2d1f1dca0/transformed/jetified-firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/cab0025e205afd470f0639275483b431/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/cab0025e205afd470f0639275483b431/transformed/jetified-play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sinan/.gradle/caches/transforms-3/5484b971be9c7e7743ba439833e82580/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /Users/sinan/.gradle/caches/transforms-3/5484b971be9c7e7743ba439833e82580/transformed/jetified-play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/156327d653f68cf1948f4daa25971e10/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/156327d653f68cf1948f4daa25971e10/transformed/jetified-play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9b2c553a1d198f831ddf9658496ee7e1/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9b2c553a1d198f831ddf9658496ee7e1/transformed/jetified-play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sinan/.gradle/caches/transforms-3/6765090d7ca194468d839f54969d87d5/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /Users/sinan/.gradle/caches/transforms-3/6765090d7ca194468d839f54969d87d5/transformed/jetified-play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /Users/sinan/.gradle/caches/transforms-3/306773e4be5c05bbf525052a2d364b03/transformed/jetified-play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /Users/sinan/.gradle/caches/transforms-3/61c21cea1fa739c31698e4c1c04dc242/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa587bbfc2261c17aca180e67725773d/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa587bbfc2261c17aca180e67725773d/transformed/jetified-play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2a25bafdc9bedb769773c3311eadee9b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2a25bafdc9bedb769773c3311eadee9b/transformed/jetified-play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ab134bc81780d6576faf383abae63d39/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ab134bc81780d6576faf383abae63d39/transformed/jetified-play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1761ee2035c03386002ed5437bcb667d/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1761ee2035c03386002ed5437bcb667d/transformed/jetified-play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/704a821c4ad095d148c05862a4226d4f/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/704a821c4ad095d148c05862a4226d4f/transformed/jetified-play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca711344bef5610a031d375115a7bf7a/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca711344bef5610a031d375115a7bf7a/transformed/jetified-play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ca08ccba4890c11b9a98d7b55eda4f8f/transformed/jetified-firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bf4420a0383b2d0e522cc5bb63c90942/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bf4420a0383b2d0e522cc5bb63c90942/transformed/jetified-firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e304051b8d397d75d72238f44b70640e/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e304051b8d397d75d72238f44b70640e/transformed/jetified-firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b6d41dc2c1ff0d38cbf3d6ba3d130746/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b6d41dc2c1ff0d38cbf3d6ba3d130746/transformed/jetified-firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/dde8612d9b5d6fa3d85a57b44889ea8f/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/dde8612d9b5d6fa3d85a57b44889ea8f/transformed/jetified-firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2f28b62ca7cedfd71417faee3544c635/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2f28b62ca7cedfd71417faee3544c635/transformed/jetified-play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4f7419fbf5bc58867d9753ee029489f7/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4f7419fbf5bc58867d9753ee029489f7/transformed/jetified-play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /Users/sinan/.gradle/caches/transforms-3/30c0d48de0563a12ceb010fb5c15b2b6/transformed/jetified-play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8ae738744ad6cd08b6e7199d71f47e2a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8ae738744ad6cd08b6e7199d71f47e2a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sinan/.gradle/caches/transforms-3/a551ec3925c70cb02b677f108725d346/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/sinan/.gradle/caches/transforms-3/a551ec3925c70cb02b677f108725d346/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/833da8d2b26b61531d7cd9f799065db0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/833da8d2b26b61531d7cd9f799065db0/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sinan/.gradle/caches/transforms-3/4b7dbe262513be604b02cce610f4a575/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sinan/.gradle/caches/transforms-3/4b7dbe262513be604b02cce610f4a575/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sinan/.gradle/caches/transforms-3/61b149a0f5116383bf982f5d209309fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sinan/.gradle/caches/transforms-3/61b149a0f5116383bf982f5d209309fc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sinan/.gradle/caches/transforms-3/809b7429e41d37aee40f6602ba3836c5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sinan/.gradle/caches/transforms-3/809b7429e41d37aee40f6602ba3836c5/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/sinan/.gradle/caches/transforms-3/43d1e078ac188d465ef2809824fd4952/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sinan/.gradle/caches/transforms-3/43d1e078ac188d465ef2809824fd4952/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sinan/.gradle/caches/transforms-3/9512078eb81ca6cc668c4ddd01979fb1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/sinan/.gradle/caches/transforms-3/9512078eb81ca6cc668c4ddd01979fb1/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1395196fa28cf1ce55585f8db402c72b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1395196fa28cf1ce55585f8db402c72b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sinan/.gradle/caches/transforms-3/d30ef89f68d3a6373b3f5183f41069de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sinan/.gradle/caches/transforms-3/d30ef89f68d3a6373b3f5183f41069de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f6f16f3040f3f9a9b3aa35f871b717df/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/f6f16f3040f3f9a9b3aa35f871b717df/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sinan/.gradle/caches/transforms-3/467d8e03913028be2d7157a4024b8fcc/transformed/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/sinan/.gradle/caches/transforms-3/467d8e03913028be2d7157a4024b8fcc/transformed/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sinan/.gradle/caches/transforms-3/62c5529e591ea6e283aeaae274bd2dd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sinan/.gradle/caches/transforms-3/62c5529e591ea6e283aeaae274bd2dd2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sinan/.gradle/caches/transforms-3/cfa4b47aa70d8e1a74967833d165ad34/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sinan/.gradle/caches/transforms-3/cfa4b47aa70d8e1a74967833d165ad34/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.4] /Users/sinan/.gradle/caches/transforms-3/ee2541c2beb286993af028b70726c4af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/sinan/.gradle/caches/transforms-3/ee2541c2beb286993af028b70726c4af/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sinan/.gradle/caches/transforms-3/20afffd88e17b00f5ebe64f36c265faa/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sinan/.gradle/caches/transforms-3/20afffd88e17b00f5ebe64f36c265faa/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/7b804e3bcd1e54d498c9c5de9a977174/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/7b804e3bcd1e54d498c9c5de9a977174/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/e4571ff447acf29be2ac111e2c23e099/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/e4571ff447acf29be2ac111e2c23e099/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/67ec4c3c228d9bee23d2e3371260c294/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sinan/.gradle/caches/transforms-3/67ec4c3c228d9bee23d2e3371260c294/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sinan/.gradle/caches/transforms-3/4f45debf5ee8c6379ed26ed6632c29fb/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/sinan/.gradle/caches/transforms-3/4f45debf5ee8c6379ed26ed6632c29fb/transformed/jetified-media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sinan/.gradle/caches/transforms-3/31bbec80ba4a842e57d1847179951b7f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sinan/.gradle/caches/transforms-3/31bbec80ba4a842e57d1847179951b7f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8b60bdd7b2d37387e0afc71c2ed38e46/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sinan/.gradle/caches/transforms-3/8b60bdd7b2d37387e0afc71c2ed38e46/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sinan/.gradle/caches/transforms-3/fd260aa1f79d85a82788ffcb5351e38a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sinan/.gradle/caches/transforms-3/fd260aa1f79d85a82788ffcb5351e38a/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sinan/.gradle/caches/transforms-3/d3fba2379ddbf259fc3f9b1b6a796e5e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sinan/.gradle/caches/transforms-3/7c359a0d3867ad12623e008da9b1b158/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sinan/.gradle/caches/transforms-3/7c359a0d3867ad12623e008da9b1b158/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sinan/.gradle/caches/transforms-3/41f30f64a8a1ed0cb2e1b872ccbeaf0a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sinan/.gradle/caches/transforms-3/41f30f64a8a1ed0cb2e1b872ccbeaf0a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sinan/.gradle/caches/transforms-3/c3a0952718f4588cef518dc015b1417c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sinan/.gradle/caches/transforms-3/c3a0952718f4588cef518dc015b1417c/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1323bd5c8b0461ff28b7334ce7cb31ad/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sinan/.gradle/caches/transforms-3/1323bd5c8b0461ff28b7334ce7cb31ad/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sinan/.gradle/caches/transforms-3/392bea6d77071e7e03dd912ccc7690b1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sinan/.gradle/caches/transforms-3/392bea6d77071e7e03dd912ccc7690b1/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sinan/.gradle/caches/transforms-3/8b6ca7e47c8e8fbc9f91993e9e1bbde9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sinan/.gradle/caches/transforms-3/8b6ca7e47c8e8fbc9f91993e9e1bbde9/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sinan/.gradle/caches/transforms-3/990aff751bdc95e9300810bb83da34c6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sinan/.gradle/caches/transforms-3/990aff751bdc95e9300810bb83da34c6/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sinan/.gradle/caches/transforms-3/fca11842bc1ce504382c66321778e163/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sinan/.gradle/caches/transforms-3/fca11842bc1ce504382c66321778e163/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sinan/.gradle/caches/transforms-3/b951fea2a9cb75f570a0c35762539cca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sinan/.gradle/caches/transforms-3/b951fea2a9cb75f570a0c35762539cca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sinan/.gradle/caches/transforms-3/3ea069aade38f2834880739401f58f45/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sinan/.gradle/caches/transforms-3/3ea069aade38f2834880739401f58f45/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sinan/.gradle/caches/transforms-3/1f07310347ab1b49ec09da2df174c13b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sinan/.gradle/caches/transforms-3/1f07310347ab1b49ec09da2df174c13b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/d075286adb62d55953e82bb4136901f4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sinan/.gradle/caches/transforms-3/d075286adb62d55953e82bb4136901f4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sinan/.gradle/caches/transforms-3/0b457c4ba9b8e4385c89108400d7920b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sinan/.gradle/caches/transforms-3/0b457c4ba9b8e4385c89108400d7920b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sinan/.gradle/caches/transforms-3/38e9275d08f3a2e0bcd6de48cff00961/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sinan/.gradle/caches/transforms-3/38e9275d08f3a2e0bcd6de48cff00961/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sinan/.gradle/caches/transforms-3/6575b34e88e16710b2627b63394f8c5a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sinan/.gradle/caches/transforms-3/6575b34e88e16710b2627b63394f8c5a/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a37acbf713a537f747e9ba6ac012a793/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a37acbf713a537f747e9ba6ac012a793/transformed/jetified-play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/132555be3abd34120a5f02efa5b4f5b8/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/132555be3abd34120a5f02efa5b4f5b8/transformed/jetified-play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0f60ef51a04c2e4dd5a042924b5b0757/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0f60ef51a04c2e4dd5a042924b5b0757/transformed/jetified-play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/06729512e501985b2c0bbb2c5c30e219/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/06729512e501985b2c0bbb2c5c30e219/transformed/jetified-play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4283a2d58264a7aca92beaa848847fa2/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4283a2d58264a7aca92beaa848847fa2/transformed/jetified-play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f6e1753b6571af729d1be8b731aa7ab2/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f6e1753b6571af729d1be8b731aa7ab2/transformed/jetified-play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0942d79f7741826f94ddeabae505b7d1/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0942d79f7741826f94ddeabae505b7d1/transformed/jetified-play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3d04a7f2a04d32bd77427b5499245fd7/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3d04a7f2a04d32bd77427b5499245fd7/transformed/jetified-play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa540224041709e18cc24ae293422906/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/aa540224041709e18cc24ae293422906/transformed/jetified-play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d04bfac02dca99835b0e5cb5f90469ab/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d04bfac02dca99835b0e5cb5f90469ab/transformed/jetified-play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/23d1a2d29aed5426f83eacc2ca65c8ed/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/23d1a2d29aed5426f83eacc2ca65c8ed/transformed/jetified-play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bcec558f81bb92c1398dd09eabc36c4a/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bcec558f81bb92c1398dd09eabc36c4a/transformed/jetified-firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/665bb8c96d4999f288ed2ec20400b863/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/665bb8c96d4999f288ed2ec20400b863/transformed/jetified-play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8e62e89929074812e481d29c170e168e/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8e62e89929074812e481d29c170e168e/transformed/jetified-firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12e62877231a162140e557d4fce3fcd9/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12e62877231a162140e557d4fce3fcd9/transformed/jetified-play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/210b4d43a5efa2f13afe11407adb9a45/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/210b4d43a5efa2f13afe11407adb9a45/transformed/jetified-play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f0207f6219380a4f698544c084394898/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/f0207f6219380a4f698544c084394898/transformed/jetified-firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1ddd2a535ff3c37df2dc52d196aba331/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/1ddd2a535ff3c37df2dc52d196aba331/transformed/jetified-firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d9631569f6a41ef754ffd8a9dcf67c37/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/d9631569f6a41ef754ffd8a9dcf67c37/transformed/jetified-firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/342fc398927bacab1ff8362013c9f906/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/342fc398927bacab1ff8362013c9f906/transformed/jetified-firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/83fcf9d5070cfaa2f724cbed2f3a6dc9/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/83fcf9d5070cfaa2f724cbed2f3a6dc9/transformed/jetified-firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9d24a82f811fbe38f56607575d5f7c5b/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9d24a82f811fbe38f56607575d5f7c5b/transformed/jetified-firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3874edf154a7fb2c07ca3ca97073784d/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/3874edf154a7fb2c07ca3ca97073784d/transformed/jetified-firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99f40f8d8665735c15e677dc2fe073ca/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99f40f8d8665735c15e677dc2fe073ca/transformed/jetified-firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/de9e5c503a012e7a5ef6d43327bd1eca/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/de9e5c503a012e7a5ef6d43327bd1eca/transformed/jetified-firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/524312580e26c2b9fd961eb023839337/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/524312580e26c2b9fd961eb023839337/transformed/jetified-play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8212ce1e103d960c5a10ced29f868519/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8212ce1e103d960c5a10ced29f868519/transformed/jetified-play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4a93c95f47348e66b431a8e28ac1ad55/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/4a93c95f47348e66b431a8e28ac1ad55/transformed/jetified-play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bb6523e01e6286998b8e7d891951562f/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bb6523e01e6286998b8e7d891951562f/transformed/jetified-play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8973c3c59b46336c419d7c695e94c442/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/8973c3c59b46336c419d7c695e94c442/transformed/jetified-firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/56dbe85d061b163ae0bd3f6476b55c0b/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/56dbe85d061b163ae0bd3f6476b55c0b/transformed/jetified-play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/da8a2ce2e2136b49f93858958c5c01ed/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/da8a2ce2e2136b49f93858958c5c01ed/transformed/jetified-play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e76223ce22c9c5868687439633f0c3f/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e76223ce22c9c5868687439633f0c3f/transformed/jetified-play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/654e7130a8ba8d0b528b98a29ea3333c/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/654e7130a8ba8d0b528b98a29ea3333c/transformed/jetified-play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99cf06251b9e5310e5a1f4aab4b32c08/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/99cf06251b9e5310e5a1f4aab4b32c08/transformed/jetified-play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/34d4d8d9d44e6a0e5646b1c36bb3c3f0/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/34d4d8d9d44e6a0e5646b1c36bb3c3f0/transformed/jetified-firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12af9c8095f65cb9a0e8b9fd309015ef/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/12af9c8095f65cb9a0e8b9fd309015ef/transformed/jetified-firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d5a59ed675b53314a15740d64956093/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d5a59ed675b53314a15740d64956093/transformed/jetified-play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e1950d859c45c9162b1465765ade1f2e/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e1950d859c45c9162b1465765ade1f2e/transformed/jetified-play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b624b5e1ac670ff8bc147a39b052973c/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b624b5e1ac670ff8bc147a39b052973c/transformed/jetified-play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/903df6848ec6723ccd419853691d900f/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/903df6848ec6723ccd419853691d900f/transformed/jetified-play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e011c9d9de7f2b29f3a906c465dc065/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/0e011c9d9de7f2b29f3a906c465dc065/transformed/jetified-play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/af41b66a1ad27071341f8d1d6b0cc35c/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/af41b66a1ad27071341f8d1d6b0cc35c/transformed/jetified-play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/247f24815eb289e16dbfe503a913dd60/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/247f24815eb289e16dbfe503a913dd60/transformed/jetified-play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/984c47d9420544028b59a9029a4de968/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/984c47d9420544028b59a9029a4de968/transformed/jetified-play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/21f2c879b61fb345e4078bbbb3032503/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/21f2c879b61fb345e4078bbbb3032503/transformed/jetified-play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a27fed88a532b355fef09e37a7bc13bb/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a27fed88a532b355fef09e37a7bc13bb/transformed/jetified-play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/eecc8e6f3c356f1491b2bc9429e944af/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/eecc8e6f3c356f1491b2bc9429e944af/transformed/jetified-play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/71ff9eef8048bdcc055d4dc5042315e4/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/71ff9eef8048bdcc055d4dc5042315e4/transformed/jetified-play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e244035ddece021282eb68ce19e90ea2/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e244035ddece021282eb68ce19e90ea2/transformed/jetified-play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /Users/sinan/.gradle/caches/transforms-3/e2b942456bacbeb1b09ff2cce656a466/transformed/jetified-play-services-ads-12.0.1/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sinan/Desktop/HW3_base 2/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /Users/sinan/.gradle/caches/transforms-3/18b40b0c7f3bbeddb30546b7935ef4d2/transformed/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/11d07de7c24a19d8e8f0731f858a3fbe/transformed/jetified-play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b44d59100341afc665003bea00ba93a3/transformed/jetified-play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/803054dee29a6e2355d494237e39a88f/transformed/jetified-play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /Users/sinan/.gradle/caches/transforms-3/b640595e8367c503d19af43763d6d4b9/transformed/jetified-play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/2d8b24fcd0285263acb9e1071b64cf92/transformed/jetified-play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /Users/sinan/.gradle/caches/transforms-3/316b33026deeaeef34931fecc84e9a80/transformed/jetified-firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/7f1d3bf5e2cc2ecffa2681984433594d/transformed/jetified-play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /Users/sinan/.gradle/caches/transforms-3/ece4bc44b80dcf4079fa471e07330f32/transformed/jetified-play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /Users/sinan/.gradle/caches/transforms-3/a601bc7561747874b339152e4974856c/transformed/jetified-play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /Users/sinan/.gradle/caches/transforms-3/9725393e77d12a857c29bebda562e77a/transformed/jetified-firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.edu.umb.cs443
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /Users/sinan/.gradle/caches/transforms-3/bbc2e65c131bfa4229afd5fb8ece7f19/transformed/jetified-play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /Users/sinan/.gradle/caches/transforms-3/981c6b57070ac6e0036efdff848287ec/transformed/jetified-firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /Users/sinan/.gradle/caches/transforms-3/00d25c2628bc13772bfaec3d8d92c11f/transformed/jetified-firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+uses-permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+category#edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /Users/sinan/.gradle/caches/transforms-3/65b2d9f747c7ba00ff3b62093610d9a2/transformed/jetified-firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /Users/sinan/.gradle/caches/transforms-3/79d0ff33178b7e82ed780bd66cfdefa7/transformed/jetified-firebase-common-12.0.1/AndroidManifest.xml:9:13-77
